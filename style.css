@@ -1,0 +1,35 @@
+h1{
+    color: antiquewhite;
+    background-color: black;
+}
+h1+p{
+    text-transform: capitalize;
+    color: blue;
+    background-color: rgb(255, 127, 176);
+
+}
+h2{
+    color: wheat;
+    background-color: black;
+}
+p{
+    text-transform: capitalize;
+    color: blue;
+    background-color: aquamarine;
+}
+.rr{
+        text-decoration: underline;
+        font-family: "Ubuntu", serif;
+        font-weight: 700;
+        font-style: normal;
+        line-height: 30px;         
+}
+.One{
+    color: blue;
+    background-color: rgb(130, 184, 6);
+}
+.DD{
+    color: brown;
+    background-color: aliceblue;
+}
+
